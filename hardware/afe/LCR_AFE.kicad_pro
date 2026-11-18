@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "filename": "LCR_AFE.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  },
+  "sheets": [
+    [
+      "6d17b84e-f033-4dcf-ab4e-5c737ce9cfbe",
+      ""
+    ],
+    [
+      "127feaa4-b5fe-435d-a24b-42f0fcd2802a",
+      "Power"
+    ],
+    [
+      "1c2240e5-eb14-43fa-8319-e46f22c57f4e",
+      "Stimulus"
+    ],
+    [
+      "04e6330b-8e51-4e99-ab14-a2788316354e",
+      "Bridge"
+    ],
+    [
+      "a9974408-a020-4c7e-8519-bb86bf49f734",
+      "Mixers"
+    ],
+    [
+      "5140f0c9-b759-4ac1-b816-7d9f2072c45c",
+      "ADC_Control"
+    ]
+  ],
+  "text_variables": {}
+}
